@@ -26,10 +26,12 @@ smtpd_client_restrictions =
 ```
 /etc/postfix/sender_mx_access
 
-#RSPAMD
+# RSPAMD
 
 /etc/rspamd/local.d/multimap.conf
+
 #Blacklists
+
 local_bl_from { type = "from"; map = "$LOCAL_CONFDIR/local.d/local_bl_from.map.inc"; symbol = "LOCAL_BL_FROM"; description = "Local from blacklist";score = 10;regexp = true;}
 
 
