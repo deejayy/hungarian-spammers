@@ -238,3 +238,6 @@
 /xxfaw.com$/                      REJECT Mocskos kis spammerek vagytok, ez a helyzet (235)
 /ypagescloud.com$/                REJECT Mocskos kis spammerek vagytok, ez a helyzet (236)
 /yuzzmail.net$/                   REJECT Mocskos kis spammerek vagytok, ez a helyzet (237)
+/gwconsulting/                    REJECT Mocskos kis spammerek vagytok, ez a helyzet (238)
+/onlinekonferencia.hu$/           REJECT Mocskos kis spammerek vagytok, ez a helyzet (239)
+/goodwillconsulting$/             REJECT Mocskos kis spammerek vagytok, ez a helyzet (240)
