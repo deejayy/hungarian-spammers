@@ -210,4 +210,6 @@
 /zrtalapitas.com$/
 /zseron.com$/
 /zzmanlian.com$/
-
+/gwconsulting/
+/onlinekonferencia.hu$/
+/goodwillconsulting/
